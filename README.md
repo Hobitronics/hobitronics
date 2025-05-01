@@ -13,7 +13,7 @@
 ### 📚 Project Categories:
 - 🟢 **Beginner Projects** — Simple Arduino circuits and code
 - 🟡 **Intermediate Projects** — Real-world use cases (sensors, displays, automation)
-- 🧠 **Advanced** (Coming Soon) 
+- 🔴 **Advanced** (Coming Soon) 
 - 📘 eBooks — Visual PDFs for learners
 - 📊 Blog content support — Code behind our tutorials
 
